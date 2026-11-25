@@ -29,7 +29,7 @@ An independent reliability laboratory combining an observable Python HTTP servic
 - [From LLM Tool Calling to Deterministic AIOps: Lessons from Kubernetes Troubleshooting](https://dev.to/rogeroliveira86/from-llm-tool-calling-to-deterministic-aiops-lessons-from-kubernetes-troubleshooting-57jb)
 - [Running Doesn't Mean Ready: A Kubernetes Troubleshooting Lab](https://dev.to/rogeroliveira86/running-doesnt-mean-ready-a-kubernetes-troubleshooting-lab-2dg0)
 
-[DEV.to](https://dev.to/rogeroliveira86) · [LinkedIn](https://www.linkedin.com/in/oliveiraroger/)
+[DEV.to](https://dev.to/platform-notes) · 
 
 ## Engineering Principles
 
